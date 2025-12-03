@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nisharsh's Website</title>
+</head>
+</body>
+     <h1>HELLO !</h1>
+     <p>first website</p>
+</body>
+</html>
